@@ -1,0 +1,14 @@
+[
+    {
+        "name": "admin",
+        "email": "admin@gmail.com",
+        "password": "$2y$10$gwYqKKnTjWfsf261oEuA0.MJ9.Er\/N6qSsn\/r\/.PDejrUtMQSBWFW",
+        "role": "admin"
+    },
+    {
+        "name": "hasan",
+        "email": "hasan@gmail.com",
+        "password": "$2y$10$gEbp8CRkA.Hia3D2cEPoOO81CERTUWK18ya2tqJcTgo1DF2VtfhYO",
+        "role": "admin"
+    }
+]

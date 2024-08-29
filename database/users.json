@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Gay Black",
+        "email": "buco@mailinator.com",
+        "password": "$2y$10$6OmE64dRjILmXrG1bor5IuLnxJC0oGjXJ01GGSzyp8t\/rICsM6QAa",
+        "account_no": "bbank66cb5d986661e1.12325279",
+        "role": "customer"
+    },
+    {
+        "id": 2,
+        "name": "Gregory Johnston",
+        "email": "xehavo@mailinator.com",
+        "password": "$2y$10$m2Xz4wkYq43EPe3pNG9.b.oeDZ6OPPQXq6\/UtkWwoEU6RG9zDI2\/q",
+        "account_no": "bbank66cb5d9d135b37.11661284",
+        "role": "customer"
+    },
+    {
+        "id": 3,
+        "name": "Adele Suarez",
+        "email": "gimacaz@mailinator.com",
+        "password": "$2y$10$.dt2NbysH7HPhgYn9Gv4YOoQTpGWdhagfN9RR\/CfeYiGO7ANx\/qjW",
+        "account_no": "bbank66cb5db0a1ce41.45478613",
+        "role": "customer"
+    },
+    {
+        "id": 4,
+        "name": "user",
+        "email": "user@gmail.com",
+        "password": "$2y$10$qvmnevxJLln6Pyj1ONHE7OFlK4WZWuGvt31mYcG9Vy5F.EtXF9Fga",
+        "account_no": "bbank66cb5e9d09d249.21015153",
+        "role": "customer"
+    },
+    {
+        "id": 5,
+        "name": "Kawsar Ahmad",
+        "email": "kawsar@gmail.com",
+        "password": "$2y$10$\/.sbY5NhphVASrQC5w7Teu.acRTDBSHcHIAFf0PAP3h77TYOhwovS",
+        "account_no": "bbank66cb69215307b4.39201760",
+        "role": "customer"
+    },
+    {
+        "id": 6,
+        "name": "rahat bari",
+        "email": "rahat@gmail.com",
+        "password": "$2y$10$gA5FZSC7cgmpDlLvmsQuYeCIzU.3JPLGUilyJQIerywcDvNOHPj0W",
+        "account_no": "bbank66cdc3e3aba7b3.40620676",
+        "role": "customer"
+    },
+    {
+        "id": 7,
+        "name": "rahat bari",
+        "email": "rahat@gmail.com",
+        "password": "$2y$10$SPsOLzBishLt9e5iIcsiS.CQ4tcTmK9BG9UixhVyEsNuzIaAtlRem",
+        "account_no": "bbank66cdc42a664b66.99780964",
+        "role": "customer"
+    },
+    {
+        "id": 8,
+        "name": "Cathleen Bryan",
+        "email": "bypoxyhog@mailinator.com",
+        "password": "$2y$10$D7NDnBapUULtZIdKcrLKMewPoiAf04WMyFwvCr74g2WjHfguTQsGC",
+        "account_no": "bbank66cdc487292281.48102481",
+        "role": "customer"
+    },
+    {
+        "id": 9,
+        "name": "Preston Hines",
+        "email": "wabe@mailinator.com",
+        "password": "$2y$10$SDmy23NJTJ355GJAEytf0eilhaShg.iF0OzHj6KZIJUsv1C1HzLL2",
+        "account_no": "bbank66cdc4916f50c5.79157374",
+        "role": "customer"
+    },
+    {
+        "id": 10,
+        "name": "Paul Clements",
+        "email": "qugaz@mailinator.com",
+        "password": "$2y$10$PZrj\/H3choXSCxhycIQVJef74XsvbgZ.N2qsFlHQ.OfxKEdbEbY82",
+        "account_no": "bbank66cddaf50a82e4.73238474",
+        "role": "customer"
+    },
+    {
+        "id": 11,
+        "name": "Mark Valentine",
+        "email": "tanab@mailinator.com",
+        "password": "$2y$10$U8Gptxs0rlWQbkO2f4.QH.T4tQvtUTDHcPUkEM.vMU.bv0QE51XpK",
+        "account_no": "bbank66cddbd2a624c1.42948231",
+        "role": "customer"
+    },
+    {
+        "id": 12,
+        "name": "Victor Stevens",
+        "email": "watetef@mailinator.com",
+        "password": "$2y$10$ClEMUz0uEt6NxEL0s9XDmu5m\/kKx5c0VNnL8x.59kDr9lhL8BSOd.",
+        "account_no": "bbank66cddc750e6df0.78072425",
+        "role": "customer"
+    },
+    {
+        "id": 13,
+        "name": "test",
+        "email": "test@gmail.com",
+        "password": "$2y$10$q3j1FDbd1ZrNH0E3BLpOJe7YyGA7KYi6fHOHQJ\/.0pFUGrM65g1\/2",
+        "account_no": "bbank66cdf403a7ee75.48685272",
+        "role": "customer"
+    },
+    {
+        "id": 14,
+        "name": "akbar",
+        "email": "akbar@gmail.com",
+        "password": "$2y$10$ywFGEh1Oj0EZQXqQHqYpS.Z8rUQZxaepY.VmVxG7FZrBTioI43zRC",
+        "account_no": "bbank66cf247bdc5195.61350866",
+        "role": "customer"
+    },
+    {
+        "id": 15,
+        "name": "Margaret Ingram",
+        "email": "zonybogy@mailinator.com",
+        "password": "$2y$10$2rGUwqWrc42KuOZqIoeYJOPNXZ5DRtUpCwSjsszTzJYxuT07pK3bi",
+        "account_no": "bbank66d013bc540f13.64062917",
+        "role": "customer"
+    }
+]
